@@ -4,7 +4,7 @@ Hola, I'm Harjot Singh
 - 🌱 I’m currently learning Android Development 
 - 🤔 I’m looking for help with Problem Solving 
 - 💬 Ask me about java 
-- 📫 How to reach me: [Twitter- @Harjotse](https://twitter.com/harjotse) ; Linkedin-[@harjotsb](https://www.linkedin.com/in/harjotse/)
+- 📫 How to reach me: [Twitter- @Harjotse](https://twitter.com/harjotse) ; Linkedin-[@harjotse](https://www.linkedin.com/in/harjotse/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I just became active on Github :)
 
