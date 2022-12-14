@@ -8,4 +8,4 @@ Hola, I'm Harjot Singh
 - 😄 Pronouns: He/His
 
 
-![Harjot's GitHub stats](https://github-readme-stats.vercel.app/api?username=harjotse&theme=dark&show_icons=true)
+
