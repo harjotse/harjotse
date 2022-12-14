@@ -1,9 +1,9 @@
 Hola, I'm Harjot Singh
-- A big change coming soon ,merging both the profiles to make this one full of projects + lots of stuff coming from 2023 :)
+- Changes coming soon ,merging both the profiles to make this one full of projects + lots of stuff coming from 2023 :)
 - 🔭 I’m currently working on EEG music based therapy application 
-- 🌱 I’m currently learning Android Development 
+- 🌱 I’m currently Exploring devOps
 - 🤔 I’m looking for help with Problem Solving 
-- 💬 Ask me about java 
+- 💬 Ask me about java,Android Dev and IOS dev
 - 📫 How to reach me: [Twitter- @Harjotse](https://twitter.com/harjotse) ; Linkedin-[@harjotse](https://www.linkedin.com/in/harjotse/)
 - 😄 Pronouns: He/His
 
