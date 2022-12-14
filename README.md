@@ -4,7 +4,7 @@ Hola, I'm Harjot Singh
 - 🌱 I’m currently Exploring devOps
 - 🤔 I’m looking for help with Problem Solving 
 - 💬 Ask me about java,Android Dev and IOS dev
-- 📫 How to reach me: Twitter- [@Harjotse](https://twitter.com/harjotse) ; Linkedin-[@harjotse](https://www.linkedin.com/in/harjotse/)
+- 📫 How to reach me: Twitter- [@Harjotse](https://twitter.com/harjotse) ; Linkedin-[@Harjotse](https://www.linkedin.com/in/harjotse/) ;Leetcode-[@harjotse] (https://leetcode.com/harjotse/)
 - 😄 Pronouns: He/His
 
 
