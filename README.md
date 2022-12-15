@@ -1,6 +1,6 @@
 Hola, I'm Harjot Singh
 - Changes coming soon ,shifting from gitlab to make this one full of projects + lots of stuff coming from 2023 :)
-- 🔭 I’m currently working on EEG music based therapy application 
+- 🔭 I’m currently working on EEG application 
 - 🌱 I’m currently Exploring devOps
 - 🤔 I’m looking for help with Problem Solving 
 - 💬 Ask me about java,Android Dev and IOS dev
