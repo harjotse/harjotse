@@ -7,5 +7,6 @@ Hola, I'm Harjot Singh
 - 📫 How to reach me: Twitter- [@Harjotse](https://twitter.com/harjotse) ; Linkedin-[@Harjotse](https://www.linkedin.com/in/harjotse/) ; 
 - 😄 Pronouns: He/His
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=harjotse)](https://git.io/streak-stats)
 
 
