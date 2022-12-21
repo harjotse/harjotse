@@ -5,7 +5,6 @@ Hola, I'm Harjot Singh
 - 🤔 I’m looking for help with Problem Solving 
 - 💬 Ask me about java,Android Dev and IOS dev
 - 📫 How to reach me: Twitter- [@Harjotse](https://twitter.com/harjotse) ; Linkedin-[@Harjotse](https://www.linkedin.com/in/harjotse/) ; 
-- Stalk me solving on Leetcode-[@harjotse] (https://leetcode.com/harjotse/)
 - 😄 Pronouns: He/His
 
 
