@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AF714&width=435&lines=Hola%2C+I'm+Harjot+Singh;Final+year+CS+undergrad+;harjotse+across+platforms;Sphinx+of+black+quartz%2C+judge+my+vow)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hola%2C+I'm+Harjot+Singh;Final+year+CS+undergrad+;harjotse+across+platforms)](https://git.io/typing-svg)
 
 Hola, I'm Harjot Singh
 - Changes coming soon ,shifting from gitlab to make this one full of projects + lots of stuff coming from 2023 :)
