@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/harjotse?label=Follow)](https://twitter.com/intent/follow?screen_name=harjotse)
 [![Linkedin: Tanya](https://img.shields.io/badge/-Harjot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harjotse/)](https://www.linkedin.com/in/harjotse/)
 ![GitHub followers](https://img.shields.io/github/followers/harjotse?label=Follow&style=social)
-<img alt = "profile views" src="5980"> 
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=tanyarajhans7&color=brightgreen">  
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
