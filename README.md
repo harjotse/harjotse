@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hola%2C+I'm+Harjot+Singh;Final+year+CS+undergrad+;harjotse+across+platforms)](https://git.io/typing-svg)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harjotse)](https://github.com/anuraghazra/github-readme-stats)
+
 Hola, I'm Harjot Singh 😄
 - Changes coming soon ,shifting from gitlab to make this one full of projects + lots of stuff coming from 2023 :)
 - 🔭 I’m currently working on a JavaScript Project
