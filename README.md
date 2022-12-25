@@ -18,5 +18,5 @@ Hola, I'm Harjot Singh 😄
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=harjotse&theme=java-dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harjotse&layout=compact)](https://github.com/harjotse/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harjotse&layout=compact&theme=java-dark)](https://github.com/harjotse/github-readme-stats)
 
