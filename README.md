@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hola%2C+I'm+Harjot+Singh;Final+year+CS+undergrad+;harjotse+across+platforms)](https://git.io/typing-svg)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/harjotse?label=Follow)](https://twitter.com/intent/follow?screen_name=harjotse)
+[![Twitter Follow](https://img.shields.io/twitter/follow/harjotse?label=Follow)]
 [![Linkedin: Tanya](https://img.shields.io/badge/-Harjot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harjotse/)](https://www.linkedin.com/in/harjotse/)
 ![GitHub followers](https://img.shields.io/github/followers/harjotse?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=tanyarajhans7&color=brightgreen">  
