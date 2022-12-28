@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hola%2C+I'm+Harjot+Singh;Final+year+CS+undergrad+;harjotse+across+platforms)](https://git.io/typing-svg)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/harjotse?label=Follow)](https://twitter.com/intent/follow?screen_name=harjotse)
-[![Linkedin: Tanya](https://img.shields.io/badge/-Harjot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harjotse/)](https://www.linkedin.com/in/harjotse/)
+[![Linkedin: Harjot](https://img.shields.io/badge/-Harjot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harjotse/)](https://www.linkedin.com/in/harjotse/)
 ![GitHub followers](https://img.shields.io/github/followers/harjotse?label=Follow&style=social)
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=tanyarajhans7&color=brightgreen">  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saumya1singh&label=Profile%20views&color=0e75b6&style=flat" alt="saumya1singh" /> </p>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
