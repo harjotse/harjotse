@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/harjotse?label=Follow)](https://twitter.com/intent/follow?screen_name=harjotse)
 [![Linkedin: Harjot](https://img.shields.io/badge/-Harjot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harjotse/)](https://www.linkedin.com/in/harjotse/)
 ![GitHub followers](https://img.shields.io/github/followers/harjotse?label=Follow&style=social)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harjotse&label=Profile%20views&color=0e75b6&style=flat" alt="harjotse" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saumya1singh&label=Profile%20views&color=0e75b6&style=flat" alt="hajotse" /> </p>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
