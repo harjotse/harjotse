@@ -8,7 +8,7 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 Hola,I'm Harjot Singh 
-- Changes coming soon ,shifting from gitlab to make this one full of projects + lots of stuff coming from 2023 :)
+- Changes coming soon ,shifting from gitlab to make this one full of projects + lots of stuff coming from 2023 
 - 🔭 I’m currently working on a JavaScript Project
 - 🌱 I’m currently Exploring Spring 
 - 🤔 I’m looking for help with Problem Solving 
