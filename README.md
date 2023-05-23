@@ -9,12 +9,11 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 Hola,I'm Harjot Singh 
-- Changes coming soon ,shifting from gitlab to make this one full of projects + lots of stuff coming from 2023 
+wanna Connect with me ?? just click here --> harjotse.tech
 - 🔭 I’m currently working on a JavaScript Project
 - 🌱 I’m currently Exploring Spring 
 - 🤔 I’m looking for help with Problem Solving 
 - 💬 Ask me about java,Android Dev and IOS dev
-- 📫 How to reach me: Twitter- [@Harjotse](https://twitter.com/harjotse) ; Linkedin-[@Harjotse](https://www.linkedin.com/in/harjotse/) ; 
 - 😄 Pronouns: He/His
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harjotse&layout=compact&theme=java-dark)](https://github.com/harjotse/github-readme-stats)
