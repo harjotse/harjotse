@@ -9,8 +9,8 @@ wanna Connect with me ?? just click here --> [harjotse.tech](http://harjotse.tec
 - 🔭 I’m currently working on Azure
 - 🌱 I’m currently Exploring Spring 
 - 🤔 I’m looking for help with Problem Solving 
-- 💬 Ask me about Java,Android,and IOS dev
-- 😄 Pronouns: He/His
+- 💬 Ask me about Java, Android,and IOS dev
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harjotse&layout=compact&theme=java-dark)](https://github.com/harjotse/github-readme-stats)
 
