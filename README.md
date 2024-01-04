@@ -6,7 +6,7 @@
 
 Hola,I'm Harjot Singh 
 wanna Connect with me ?? just click here --> [harjotse.tech](http://harjotse.tech/)
-- 🔭 I’m currently working on Azure
+- 🔭 I’m currently working on Azure and Server side
 - 🌱 I’m currently Exploring Spring 
 - 🤔 I’m looking for help with Problem Solving 
 - 💬 Ask me about Java, Android,and IOS dev
