@@ -1,6 +1,5 @@
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saumya1singh&label=Profile%20views&color=0e75b6&style=flat" alt="hajotse" /> </p>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
